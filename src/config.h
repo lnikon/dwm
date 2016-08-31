@@ -1,0 +1,1 @@
+/home/vag/dwm/config.h
